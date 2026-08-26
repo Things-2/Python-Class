@@ -1,2 +1,2 @@
 # Python-Class
-A Python Class idk
+Python Code thingy mijigy
